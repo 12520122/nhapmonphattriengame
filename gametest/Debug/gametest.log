@@ -1,0 +1,71 @@
+﻿  WinMain.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  stair.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+d:\life\code\khoitaogamedirectx\gametest\stair.cpp(43): warning C4244: '=': conversion from 'UINT' to 'float', possible loss of data
+d:\life\code\khoitaogamedirectx\gametest\stair.cpp(44): warning C4244: '=': conversion from 'UINT' to 'float', possible loss of data
+  Sprite.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+d:\life\code\khoitaogamedirectx\gametest\sprite.cpp(61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\life\code\khoitaogamedirectx\gametest\sprite.cpp(62): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\life\code\khoitaogamedirectx\gametest\sprite.cpp(68): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\life\code\khoitaogamedirectx\gametest\sprite.cpp(69): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\life\code\khoitaogamedirectx\gametest\sprite.cpp(73): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\life\code\khoitaogamedirectx\gametest\sprite.cpp(74): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\life\code\khoitaogamedirectx\gametest\sprite.cpp(113): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\life\code\khoitaogamedirectx\gametest\sprite.cpp(114): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\life\code\khoitaogamedirectx\gametest\sprite.cpp(120): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\life\code\khoitaogamedirectx\gametest\sprite.cpp(121): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\life\code\khoitaogamedirectx\gametest\sprite.cpp(125): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\life\code\khoitaogamedirectx\gametest\sprite.cpp(126): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  rockman.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+d:\life\code\khoitaogamedirectx\gametest\rockman.cpp(105): warning C4101: 'ImageEffect': unreferenced local variable
+d:\life\code\khoitaogamedirectx\gametest\rockman.cpp(541): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\life\code\khoitaogamedirectx\gametest\rockman.cpp(542): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\life\code\khoitaogamedirectx\gametest\rockman.cpp(546): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\life\code\khoitaogamedirectx\gametest\rockman.cpp(547): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  DirectxInput.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+d:\life\code\khoitaogamedirectx\gametest\directxinput.cpp(54): warning C4101: 'buffer': unreferenced local variable
+d:\life\code\khoitaogamedirectx\gametest\directxinput.cpp(86): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  DirectxGraphic.cpp
+d:\life\code\khoitaogamedirectx\gametest\directxgraphic.cpp(64): warning C4101: 'imgcolor': unreferenced local variable
+d:\life\code\khoitaogamedirectx\gametest\directxgraphic.cpp(80): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\life\code\khoitaogamedirectx\gametest\directxgraphic.cpp(97): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\life\code\khoitaogamedirectx\gametest\directxgraphic.cpp(106): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\life\code\khoitaogamedirectx\gametest\directxgraphic.cpp(107): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\life\code\khoitaogamedirectx\gametest\directxgraphic.cpp(113): warning C4101: 'imgcolor': unreferenced local variable
+  cutman.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+d:\life\code\khoitaogamedirectx\gametest\cutman.cpp(23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\life\code\khoitaogamedirectx\gametest\cutman.cpp(24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\life\code\khoitaogamedirectx\gametest\cutman.cpp(53): warning C4305: '=': truncation from 'double' to 'float'
+d:\life\code\khoitaogamedirectx\gametest\cutman.cpp(54): warning C4305: '=': truncation from 'double' to 'float'
+d:\life\code\khoitaogamedirectx\gametest\cutman.cpp(59): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\life\code\khoitaogamedirectx\gametest\cutman.cpp(60): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\life\code\khoitaogamedirectx\gametest\cutman.cpp(64): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\life\code\khoitaogamedirectx\gametest\cutman.cpp(65): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Cgame.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+d:\life\code\khoitaogamedirectx\gametest\cgame.cpp(155): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\life\code\khoitaogamedirectx\gametest\cgame.cpp(156): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  camera.cpp
+  bubble.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+d:\life\code\khoitaogamedirectx\gametest\bubble.cpp(8): warning C4305: '=': truncation from 'double' to 'float'
+d:\life\code\khoitaogamedirectx\gametest\bubble.cpp(40): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\life\code\khoitaogamedirectx\gametest\bubble.cpp(41): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\life\code\khoitaogamedirectx\gametest\bubble.cpp(45): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\life\code\khoitaogamedirectx\gametest\bubble.cpp(46): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  BrickHidden.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+d:\life\code\khoitaogamedirectx\gametest\brickhidden.cpp(20): warning C4244: '=': conversion from 'UINT' to 'float', possible loss of data
+d:\life\code\khoitaogamedirectx\gametest\brickhidden.cpp(21): warning C4244: '=': conversion from 'UINT' to 'float', possible loss of data
+  boommancpp.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Generating Code...
+d:\life\code\khoitaogamedirectx\gametest\cgame.cpp(37): warning C4715: 'Cgame::WndProc': not all control paths return a value
+d:\life\code\khoitaogamedirectx\gametest\winmain.cpp(45): warning C4715: 'WinMain': not all control paths return a value
+  gametest.vcxproj -> D:\life\code\KhoitaogameDirectX\Debug\gametest.exe
+  gametest.vcxproj -> D:\life\code\KhoitaogameDirectX\Debug\gametest.pdb (Full PDB)
